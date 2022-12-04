@@ -49,7 +49,7 @@ to install
 ## Deployment
 
 To deploy this project 
-- Copy the codesubmission.clj file into your terminal and run it.
+- Copy the ica1chatbotsclj file into your terminal and run it.
 Goodluck!
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrggh0-Q0U_sra8lGoZFx0MymKMjLpxFyq7lMAHM-K0bHzFsbYfwGo8ygCNzj29Hoz5c&usqp=CAU)
