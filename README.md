@@ -51,5 +51,26 @@ To deploy this project
 - Copy the codesubmission.clj file into your terminal and run it.
 Goodluck!
 
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrggh0-Q0U_sra8lGoZFx0MymKMjLpxFyq7lMAHM-K0bHzFsbYfwGo8ygCNzj29Hoz5c&usqp=CAU)
+
+
+```bash
+  lein repl
+  clj
+```
+
+to install
+- [install leinigin](https://leiningen.org)
+- [install clojure](https://clojure.org/guides/install_clojure)
+
+
+
+
+## Deployment
+
+To deploy this project 
+- Copy the codesubmission.clj file into your terminal and run it.
+Goodluck!
+
 ![Logo](https://e1.pngegg.com/pngimages/255/667/png-clipart-winx-club-winx.png)
 
